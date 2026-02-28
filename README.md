@@ -69,7 +69,7 @@ The project includes:
 
 * a **raw dataset** used as the original source
 * a **processed dataset** generated after ETL transformation
-* a **sample version** may be included in the repository for GitHub size limitations
+* a **sample version**  included in the repository for GitHub size limitations
 
 ---
 
