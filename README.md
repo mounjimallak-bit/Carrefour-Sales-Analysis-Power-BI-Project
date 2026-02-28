@@ -132,19 +132,6 @@ Stores the Power BI reporting file used for dashboard development.
 dashboard/project_powerbi.pbit
 
 
-### Why This Structure Matters
-
-This layered organization improves:
-
-* data quality and traceability
-* separation between source and reporting logic
-* reusability of the processed dataset
-* reporting consistency
-* maintainability of the BI workflow
-
-It reflects a practical application of core **data warehousing principles** in a student BI project.
-
----
 
 ## Data Model | Star Schema
 
@@ -185,19 +172,7 @@ Typical relationships include:
 * `FactSales` → `DimPayment`
 * `FactSales` → `DimCategory`
 
-### Why Star Schema
 
-Using a star schema provides several BI advantages:
-
-* better analytical performance
-* simpler filtering and slicing
-* clearer model organization
-* easier KPI calculation
-* stronger dashboard scalability
-
-This is a standard modeling approach in Business Intelligence and reporting environments.
-
----
 
 ## DAX Measures | Key KPIs
 
