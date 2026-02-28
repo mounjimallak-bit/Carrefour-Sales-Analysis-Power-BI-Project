@@ -99,9 +99,9 @@ The cleaned dataset is exported as a processed CSV file and used as the source f
 
 ### ETL Script
 
-```bash
+
 etl/etl.py
-```
+
 
 ---
 
@@ -115,31 +115,22 @@ Although this project does not rely on a full enterprise warehouse platform, it 
 
 Stores the original source data without transformation.
 
-Example:
-
-```bash
 data/raw/Carrefour.csv
-```
+
 
 #### Processed Layer
 
 Stores the cleaned analytical dataset produced by the ETL pipeline.
 
-Example:
-
-```bash
 data/processed/final_dataset.csv
-```
+
 
 #### Reporting Layer
 
 Stores the Power BI reporting file used for dashboard development.
 
-Example:
-
-```bash
 dashboard/project_powerbi.pbit
-```
+
 
 ### Why This Structure Matters
 
