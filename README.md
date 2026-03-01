@@ -276,11 +276,11 @@ This project was developed using:
 carrefour-sales-powerbi/
 │
 ├── data/
-│   ├── raw/
-│   │   └── Carrefour.csv
+│   ├── raw
+│   │  
 │   │
-│   └── processed/
-│       └── final_dataset.csv
+│   └── processed
+│       
 │
 ├── etl/
 │   └── etl.py
