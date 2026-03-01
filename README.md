@@ -332,11 +332,6 @@ This generates the cleaned dataset used in the Power BI reporting layer.
 
 ## Repository Notes
 
-Due to GitHub file size limitations:
-
-* a reduced sample dataset may be included in this repository
-* the full Power BI file may be excluded if it exceeds size limits
-* full datasets can be shared externally
 
 ### Full Dataset Links
 
