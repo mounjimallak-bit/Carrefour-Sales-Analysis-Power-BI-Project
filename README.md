@@ -328,19 +328,7 @@ This generates the cleaned dataset used in the Power BI reporting layer.
 
 ---
 
-## Dashboard Preview
 
-Add screenshots here to provide a quick visual overview of the solution.
-
-Example:
-
-```markdown
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Sales Analysis](screenshots/sales_analysis.png)
-![Product Analysis](screenshots/product_analysis.png)
-```
-
----
 
 ## Repository Notes
 
